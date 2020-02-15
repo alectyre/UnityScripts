@@ -5,7 +5,7 @@ using UnityEditor;
 #endif
 
 // [System.Flags]
-// public enum MyMaskedEnum { ON = 1, OFF = 2, FISH = 4, STEVE = 8, BANANA = 16 }
+// public enum MyMaskedEnum { On = 1, Off = 2, Fish = 4, Steve = 8, Banana = 16 }
 //
 // [EnumMaskAttribute] MyMaskedEnum m_flags;
 
